@@ -304,7 +304,7 @@ de_DE:
   footer:
     legal: Impressum
     privpolicy: Datenschutzerklärung
-    powered_by: "Bereitgestellt durch %{href}."
+    powered_by: "Bereitgestellt durch Vanessa ;)"
   forgot_password:
     subtitle: Passwort vergessen
     email: E-Mail
@@ -335,9 +335,10 @@ de_DE:
     search:
       start: Suche beginnen...
   landing:
-    about: "%{href} ist eine benutzerfreundliche Oberfläche für das Open-Source-Webkonferenzsystem BigBlueButton. Sie können Ihre eigenen Räume erstellen, um Konferenzen zu veranstalten oder können bestehenden Konferenzen über einen kurzen und bequemen Link beitreten."
-    welcome: Willkommen zu BigBlueButton.
-    video: Schauen Sie sich unsere Anleitung zur Verwendung von Greenlight an
+    about: "Dies ist der BigBluebutton Server von Sitepark"
+    welcome: "Willkommen auf"
+    welcome2: "BigBlueButton"
+    video: Hier gibt es eine Anleitung für Greenlight
     upgrade: "Zeigen Sie mir, wie ich auf Version 2.0. update!"
     version: "Wir haben eine neue Version von Greenlight veröffentlicht, aber Ihre Datenbank ist damit nicht kompatibel."
   language_default: Voreinstellung (Browsersprache)

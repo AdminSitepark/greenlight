@@ -75,6 +75,8 @@ a {
 
 .header {
   height: $header-height;
+  background: linear-gradient(180deg, rgba(255,159,0,1) 0%, rgba(255,239,212,0.8) 80%);
+  border-bottom: 1px solid #ece6e0;
 }
 
 .wrapper {
@@ -89,7 +91,7 @@ a {
 }
 
 .background {
-  background-color: $background-color;
+	background: $background-color
 }
 
 .error-section {
@@ -121,7 +123,7 @@ a {
 }
 
 .force-text-normal {
-  color: #495057;
+  color: #000000;
 }
 
 .terms {
@@ -158,13 +160,11 @@ input:focus {
 
   &:hover {
     padding-bottom: 21px;
-    border-bottom: 1px solid $primary;
   }
 
   &.active {
     color: $primary !important;
     padding-bottom: 21px;
-    border-bottom: 1px solid $primary;
   }
 }
 
@@ -186,6 +186,10 @@ table {
 
 .btn i {
   transition: all .15s;
+}
+
+.btn {
+  cursor: url(https://bbb.sitepark.com/images/cursordino.png), default;
 }
 
 .nav-icon i {

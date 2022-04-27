@@ -50,6 +50,7 @@ a {
 .btn-outline-primary {
   border-color: $primary-color !important;
   color: $primary-color !important;
+  background: linear-gradient(179deg, rgba(255,255,255,0.87156869583771) 15%, rgba(255,255,255,0.8379552504595589) 49%, rgba(255,255,255,0.7959384437368697) 100%);
 
   &:hover {
     background: $primary-color !important;
